@@ -23,7 +23,7 @@
   * Github: https://github.com/jesswidjaja
 
 ## Programming Languages
-| Language | Skill Level | Preference (5 = most) |
+| Language | Skill Level | Preference for Project (5 = most) |
 | -------- | ----------- | --------------------- |
 | R        | intermediate| 5                     |
 | Python   | new kid OTB | 4                     |
