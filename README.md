@@ -25,8 +25,8 @@
 ## Programming Languages
 | Language | Skill Level | Preference (5 = most) |
 | -------- | ----------- | --------------------- |
-| R        | aight       | 5                     |
-| Python   | New kid OTB | 4                     |
+| R        | intermediate| 5                     |
+| Python   | new kid OTB | 4                     |
 
   
 ## Languages/Concepts to Learn
