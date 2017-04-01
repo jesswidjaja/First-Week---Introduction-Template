@@ -16,19 +16,19 @@
 # Contributor
   * Jesslyn Widjaja
   
-# Important Links
+## Important Links
   * LinkedIn: https://www.linkedin.com/in/jesslynwidjaja
   * Inertia7: [tbd]
   * Email: jtwidjaja1@gmail.com
   * Github: https://github.com/jesswidjaja
 
-# Programming Languages
-  R
+## Programming Languages
+  * R
   Python 
   
   ## Languages/Concepts I'd Like to Learn
-  SQL
-  Machine Learning 
+  * SQL
+  * Machine Learning 
   
 # Favorite Songs
   
