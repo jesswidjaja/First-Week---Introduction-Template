@@ -14,7 +14,8 @@
 *"People can talk all they want, but at the end of the day, the game happens in between these four lines." - LeBron James*  
 
 ## Contributor
-  * Jesslyn Widjaja *just a small town girl living in a lonely world, took the midnight train going anywhere*
+  * Jesslyn Widjaja 
+  *just a small town girl living in a lonely world, took the midnight train going anywhere*
   
 ## Important Links
   * LinkedIn: https://www.linkedin.com/in/jesslynwidjaja
