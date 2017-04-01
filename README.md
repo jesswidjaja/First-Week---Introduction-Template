@@ -42,5 +42,5 @@
 
 ## Favorite Meme
 
-![alt tag](
+![alt tag](https://github.com/jesswidjaja/First-Week---Introduction-Template/blob/master/meme.jpg?raw=true)
 
