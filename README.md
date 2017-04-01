@@ -1,7 +1,7 @@
 # First Week - Introduction Template
 ## Introduction Template for Data Science Project Group
 
-# Table of Contents:
+## Table of Contents:
   * Abstract
   * Contributor
   * Important Links
@@ -9,11 +9,11 @@
   * Favorite Songs
   * Favorite Meme
   
-# Abstract
+## Abstract
 
 *"People can talk all they want, but at the end of the day, the game happens in between these four lines." - LeBron James*  
 
-# Contributor
+## Contributor
   * Jesslyn Widjaja
   
 ## Important Links
@@ -26,11 +26,11 @@
   * R
   Python 
   
-  ## Languages/Concepts I'd Like to Learn
+## Languages/Concepts I'd Like to Learn
   * SQL
   * Machine Learning 
   
-# Favorite Songs
+## Favorite Songs
   
   Top 6
   * The Ascension - Phil Wickham
@@ -40,7 +40,7 @@
   * Fast Car - Tracy Chapman
   * Rather Be - Clean Bandit ft. Jess Glynne 
 
-# Favorite Meme
+## Favorite Meme
   
   
 
