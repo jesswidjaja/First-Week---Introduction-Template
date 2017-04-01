@@ -29,9 +29,9 @@
 | Python   | New kid otb | 4                     |
 
   
-## Languages/Concepts I'd Like to Learn
+## Languages/Concepts to Learn
   * SQL
-  * Machine Learning 
+  * Hadoop 
   
 ## Favorite Songs
   
