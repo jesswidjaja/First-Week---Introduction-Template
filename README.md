@@ -37,11 +37,11 @@
   
   Top 5
   * The Ascension - Phil Wickham
-  * Uncharted - Sara Bareilles
+  * Waves - Magic Man
   * The Middle - Jimmy Eat Worm
-  * DOPE - BTS
+  * Save Me - BTS
   * Rather Be - Clean Bandit ft. Jess Glynne 
-  * (bonus: Fast Car - Tracy Chapman)
+ 
 
 ## Favorite Meme
 
