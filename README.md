@@ -15,7 +15,7 @@
 
 ## Contributor
   * Jesslyn Widjaja 
-  *just a small town girl living in a lonely world, took the midnight train going anywhere*
+  - *just a small town girl living in a lonely world, took the midnight train going anywhere*
   
 ## Important Links
   * LinkedIn: https://www.linkedin.com/in/jesslynwidjaja
