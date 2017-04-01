@@ -14,17 +14,20 @@
 *"People can talk all they want, but at the end of the day, the game happens in between these four lines." - LeBron James*  
 
 ## Contributor
-  * Jesslyn Widjaja
+  * Jesslyn Widjaja [*just a small town girl living in a lonely world, took the midnight train going anywhere*]
   
 ## Important Links
   * LinkedIn: https://www.linkedin.com/in/jesslynwidjaja
-  * Inertia7: [tbd]
+  * Inertia7: [tba]
   * Email: jtwidjaja1@gmail.com
   * Github: https://github.com/jesswidjaja
 
 ## Programming Languages
-  * R
-  * Python 
+| Language | Skill Level | Preference (5 = most) |
+--------------------------------------------------
+| R        | OK          | 5                     |
+| Python   | New kid otb | 4                     |
+
   
 ## Languages/Concepts I'd Like to Learn
   * SQL
@@ -32,13 +35,13 @@
   
 ## Favorite Songs
   
-  Top 6
+  Top 5
   * The Ascension - Phil Wickham
   * Uncharted - Sara Bareilles
   * The Middle - Jimmy Eat Worm
   * DOPE - BTS
-  * Fast Car - Tracy Chapman
   * Rather Be - Clean Bandit ft. Jess Glynne 
+  * (bonus: Fast Car - Tracy Chapman)
 
 ## Favorite Meme
 
