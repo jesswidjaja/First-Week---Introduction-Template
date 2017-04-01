@@ -24,7 +24,7 @@
 
 ## Programming Languages
   * R
-  Python 
+  * Python 
   
 ## Languages/Concepts I'd Like to Learn
   * SQL
