@@ -41,10 +41,7 @@
   * Rather Be - Clean Bandit ft. Jess Glynne 
 
 ## Favorite Meme
-  git add meme.jpg
-  git commit -m 'add jpg file'
-  git remote add origin https://github.com/xxx.git 
-  git push -u origin master
+
   
 
 
