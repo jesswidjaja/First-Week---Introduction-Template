@@ -32,16 +32,16 @@
   
 # Favorite Songs
   
-  Top 5
+  Top 6
   * The Ascension - Phil Wickham
   * Uncharted - Sara Bareilles
   * The Middle - Jimmy Eat Worm
   * DOPE - BTS
-  * Get Lucky - Pharrell Williams ft. Daft Punk 
+  * Fast Car - Tracy Chapman
+  * Rather Be - Clean Bandit ft. Jess Glynne 
 
 # Favorite Meme
-  
-  
+  
   
 
 
