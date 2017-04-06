@@ -38,7 +38,7 @@
   Top 5
   * The Ascension - Phil Wickham
   * Ain't It Fun - Paramore
-  * The Middle - Jimmy Eat Worm
+  * The Middle - Jimmy Eat World
   * Save Me - BTS
   * Rather Be - Clean Bandit ft. Jess Glynne 
  
