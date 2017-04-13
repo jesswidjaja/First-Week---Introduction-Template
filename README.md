@@ -11,7 +11,7 @@
   
 ## Abstract
 
-*"People can talk all they want, but at the end of the day, the game happens in between these four lines." - LeBron James*  
+*"People can talk all they want, but at the end of the day, the game happens in between these four lines."* - LeBron James  
 
 ## Contributor
   * Jesslyn Widjaja
